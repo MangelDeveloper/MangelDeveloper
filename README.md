@@ -19,7 +19,7 @@ I hold a Higher Technician degree in Web and Multiplatform Application Developme
     </td>
     <td align="center" width="25%">
       <h3>💻 Backend</h3>
-      <img src="https://skillicons.dev/icons?i=java,php,py&perline=3" />
+      <img src="https://skillicons.dev/icons?i=php,java,py&perline=3" />
     </td>
     <td align="center" width="25%">
       <h3>⚡ Frameworks</h3>
